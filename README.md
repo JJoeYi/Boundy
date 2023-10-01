@@ -1,6 +1,11 @@
 # Boundy
 An interactive gamified Python application for editing and annotating polygons on images. This project combines image processing, contour detection, polygon approximation, and real-time user interaction to allow users to edit and annotate polygons on images. It's a useful tool for tasks such as object annotation, image segmentation, and more.
 
+![BoundyGameGIF](https://github.com/JJoeYi/Boundy/assets/97524056/e1bc5feb-9f12-46b1-b8dd-c4a5cfc7902d)
+
+![Boundy2GIF](https://github.com/JJoeYi/Boundy/assets/97524056/7399458c-7d51-4ca6-9d1d-9c5327293292)
+
+
 ## Key Features
 
 - Image preprocessing, edge detection, and contour detection.
